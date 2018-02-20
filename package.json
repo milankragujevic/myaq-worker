@@ -1,0 +1,25 @@
+{
+  "name": "myaq-worker",
+  "version": "0.0.1",
+  "description": "Module for communicating with the main MYAQ instance from the worker's point of view.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milankragujevic/myaq-worker.git"
+  },
+  "keywords": [
+    "myaq",
+    "worker",
+    "queueing",
+    "interface"
+  ],
+  "author": "Milan Kragujevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milankragujevic/myaq-worker/issues"
+  },
+  "homepage": "https://github.com/milankragujevic/myaq-worker#readme"
+}
